@@ -1,0 +1,3 @@
+# mourarthur.github.io
+
+This site is personal. Crawling, scraping, and use of its content (including for AI/LLM training) is not permitted.
